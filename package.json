@@ -1,0 +1,22 @@
+{
+  "name": "arya",
+  "version": "1.0.0",
+  "description": "Discord.js bot for AC:R",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AirshipCraft/arya-js.git"
+  },
+  "author": "AirshipCraft Dev Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AirshipCraft/arya-js/issues"
+  },
+  "homepage": "https://github.com/AirshipCraft/arya-js#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
